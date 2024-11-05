@@ -8,7 +8,7 @@ I thrive at the intersection of technology, creativity, and strategy. Here's a b
 
 ### Education
 - 🎓 **B.Tech in Mechanical Engineering (2022)**: I honed my technical skills, delving into algorithms, databases, and software development. My engineering journey laid the foundation for my analytical mindset.
-- 🎓 **MBA in Information Technology(2025)**: My MBA journey expanded my horizons, equipping me with business acumen and a holistic view of technology's role in shaping organizations.
+- 🎓 **MBA in Marketing & Information Technology(2025)**: My MBA journey expanded my horizons, equipping me with business acumen and a holistic view of technology's role in shaping organizations.
 
 ### Core Competencies
 - **Analytics Aficionado**: I love diving into data, extracting insights, and making informed decisions. Whether it's customer behavior, market trends, or product performance, I'm your go-to person.
