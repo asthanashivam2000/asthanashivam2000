@@ -28,7 +28,7 @@ I thrive at the intersection of technology, creativity, and strategy. Here's a b
 Here are some star-studded projects I've been part of:
 1. **Airbnb's Model Startup Idea**
 2. **Quick Commerce feasibility & Success Ideation Project** 
-3.**Latest "AI based Restaurant Model"**
+3. **Latest "AI based Restaurant Model"**
 
 ## Let's Connect!
 Feel free to explore my repositories, peek at my code, and drop a star if you find something interesting. Connect with me on LinkedIn—I'm always up for a chat about tech, startups, or the latest sci-fi series.
