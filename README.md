@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Shivam, a passionate Business product Manager asprirant with a knack for turning ideas into impactful solutions. Welcome to my GitHub portfolio! 🚀
+I'm Shivam, a passionate business product manager asprirant with a knack for turning ideas into impactful solutions. Welcome to my GitHub portfolio! 🚀
 
 ## About Me
 
