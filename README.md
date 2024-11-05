@@ -22,6 +22,7 @@ I thrive at the intersection of technology, creativity, and strategy. Here's a b
 - 📈 **Power BI**: Transforming raw data into beautiful visualizations? Count me in! I create dashboards that tell stories.
 - 🎨 **Figma**: My playground for wireframes, prototypes, and pixel-perfect designs. Design thinking is my compass.
 - 🌀 **Jira**: Agile boards, epics, sprints—I navigate the Jira universe like a seasoned astronaut.
+- 🥇 **SQL**: I have nevigated certain utilization of Data ocean where SQl is the one time solution for all.
 
 ## Projects
 Here are some star-studded projects I've been part of:
